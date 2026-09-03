@@ -40,7 +40,6 @@ Atualmente, atuo no projeto **PROATI - SEDUC**, aplicando meus conhecimentos no 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=llucasbriahn&show_icons=true&theme=dracula&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=llucasbriahn&theme=dracula"/>
 </p>
 
