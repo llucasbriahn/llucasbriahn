@@ -8,9 +8,9 @@ Desenvolvedor Back-end focado no ecossistema **Java**, com forte base em constru
 
 ## 🚀 Minha Trajetória
 
-Minha jornada profissional une formação acadêmica sólida e experiência prática. Atualmente cursando o **6º semestre de Engenharia de Software** (EAD) e formado como **Técnico em Informática para internet - NovoTec**.
+Minha jornada profissional une formação acadêmica sólida e experiência prática. Atualmente estou cursando o **6º semestre de Engenharia de Software** (EAD) e sou formado como **Técnico em Informática para internet - NovoTec**.
 
-Atualmente, atuo no projeto **PROATI - SEDUC**, aplicando meus conhecimentos no dia a dia. Anteriormente, trabalhei como **Professor de Desenvolvimento de Sistemas - SEDUC** (03/25-08/25), o que fortaleceu habilidades essenciais como comunicação técnica, documentação clara e trabalho colaborativo.
+No momento, estou focado em meus estudos e não estou mais trabalhando. Antes disso, tive a oportunidade de atuar como **Professor de Desenvolvimento de Sistemas - SEDUC** (03/25 - 12/25), o que fortaleceu habilidades essenciais como comunicação técnica, documentação clara e trabalho colaborativo.
 
 ---
 
